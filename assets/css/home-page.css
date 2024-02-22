@@ -6,6 +6,7 @@ background: linear-gradient(0deg, rgba(9,252,49,1) 25%, rgba(174,255,146,1) 75%)
 body{
     background-image: url("../../assets/images/background-home.jpg");
     background-repeat: repeat;
+    
 }
 img{
     border-radius: 16px;
