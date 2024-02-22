@@ -52,8 +52,8 @@
                 <a href="about-us-srb.html" class="nav-item nav-link">O nama</a>
                 <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>
                 <a href="courses-srb.html" class="nav-item nav-link">Kursevi</a>
-                <a href="home.php" class="nav-item nav-link">Registracija</a>
-                <b><a href="#" class="nav-item nav-link active">Prijava</a></b>
+                <a href="register.php" class="nav-item nav-link nav-item-right">Registracija</a>
+                <b><a href="#" class="nav-item nav-link nav-item-right active">Prijava</a></b>
             </div>
         </div>
     </nav>

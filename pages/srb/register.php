@@ -68,8 +68,8 @@
                 <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>
                 <a href="info-srb.html" class="nav-item nav-link">Informacije</a>
                 <a href="courses-srb.html" class="nav-item nav-link">Kursevi</a>
-                <a href="#" class="nav-item nav-link active">Registracija</a>
-                <b><a href="login.php" class="nav-item nav-link">Prijava</a></b>
+                <a href="#" class="nav-item nav-link nav-item-right active">Registracija</a>
+                <b><a href="login.php" class="nav-item nav-item-right nav-link">Prijava</a></b>
             </div>
         </div>
     </nav>

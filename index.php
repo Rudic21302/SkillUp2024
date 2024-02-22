@@ -29,7 +29,7 @@
                 <a href="pages/srb/about-us-srb.html" class="nav-item nav-link">O nama</a>
                 <a href="pages/srb/blog-forum-srb.html" class="nav-item nav-link">Blog</a>
                 <a href="pages/srb/courses-srb.html" class="nav-item nav-link">Kursevi</a>
-                <a href="pages/srb/home.php" class="nav-item nav-link nav-item-right">Registracija</a>
+                <a href="pages/srb/register.php" class="nav-item nav-link nav-item-right">Registracija</a>
                 <b><a href="pages/srb/login.php" class="nav-item nav-link nav-item-right">Prijava</a></b>
                 
             </div>
