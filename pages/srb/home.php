@@ -24,6 +24,9 @@
     <link rel="stylesheet" href="../../assets/css/main-styles.css">
     <!--REGISTER CSS-->
     <link rel="stylesheet" href="register-styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Micro+5&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
     
 </head>
 <body>
@@ -35,7 +38,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a href="../../index.html" class="nav-item nav-link">Naslovna</a>
+                <a href="../../index.php" class="nav-item nav-link">Naslovna</a>
                 <a href="about-us-srb.html" class="nav-item nav-link ">O nama</a>
                 <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>>
                 <a href="courses-srb.html" class="nav-item nav-link">Kursevi</a>
