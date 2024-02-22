@@ -1,0 +1,17 @@
+body{
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.navbar{
+    background-color:#f0fff3!important;
+    
+}
+.nav-item{
+    color: #006633 !important;
+    font-weight: bolder;
+
+}
+.navbar-brand{
+    color:#006633 !important;
+}
