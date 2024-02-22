@@ -73,7 +73,7 @@
             <input type="text" name="email" placeholder="unesite email" class="box" required> 
             <input type="password " name="password" placeholder="unesite šifru" class="box" required> 
             <input type="submit" name="submit" value="Prijavi se" class="btn">
-            <p>Nemate nalog?<a href="register.php">Registrujte se!</a></p>
+            <p>Nemate nalog? <a href="register.php">Registrujte se!</a></p>
         </form>    
 
 

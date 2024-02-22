@@ -91,7 +91,7 @@
             <input type="password" name="cpassword" placeholder="potvrdite šifru" class="box" required>
             <input type="file" name="image" class="box" accept="image/jpg, image/png, image/jpeg">
             <input type="submit" name="submit" value="Registracija" class="btn">
-            <p>Već imate nalog?<a href="login.php">Prijavite se!</a></p>
+            <p>Već imate nalog? <a href="login.php">Prijavite se!</a></p>
         </form>    
 
 
