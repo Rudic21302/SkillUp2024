@@ -38,7 +38,7 @@
 <!--NAVBAR-->
 <!--HERO SECTION-->
     <div class="hero-section-main">
-        <div class="container py-6">
+        <div class="container ">
             <div class="row flex-lg-row-reverse align-items-center g-5">
                 <div class="col-10 mx-auto col-sm-8 col-lg-6">
                     <img src="assets/images/hero-image.jpg" class="d-block mx-lg-auto img-fluid jrv-hero-image" alt="" loading="lazy">
