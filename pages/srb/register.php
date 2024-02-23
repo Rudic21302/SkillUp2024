@@ -86,8 +86,8 @@
             ?>
             <input type="text" name="name" placeholder="unesite korisničko ime" class="box" required>        
             <input type="text" name="email" placeholder="unesite email" class="box" required> 
-            <input type="password " name="password" placeholder="unesite šifru" class="box" required> 
-            <input type="password" name="cpassword" placeholder="potvrdite šifru" class="box" required>
+            <input type="password" name="password" placeholder="unesite šifru" class="box" required> 
+            <input type="password" name="password" placeholder="potvrdite šifru" class="box" required>
             <input type="file" name="image" class="box" accept="image/jpg, image/png, image/jpeg">
             <input type="submit" name="submit" value="Registracija" class="btn">
             <p>Već imate nalog? <a href="login.php">Prijavite se!</a></p>
