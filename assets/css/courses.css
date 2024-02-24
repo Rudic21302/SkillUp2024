@@ -46,7 +46,15 @@ p{
 .infocontent{
     width: 90%;
     border-radius: 10px;
+    background-color: #00b359;
 }
 ol{
     margin-left: 33%;
+}
+.sign-in-btn{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
 }
