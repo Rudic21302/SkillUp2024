@@ -36,25 +36,33 @@ p{
     padding: 3%;
 }
 .info{
-    background-color: white;
+    background-color: #00b359;
+    color: snow;
+    font-weight: bolder;
     margin: 2%;
     margin-left: 25%;
     margin-right: 25%;
     border-radius: 10px;
     padding: 1%;
 }
+
 .infocontent{
     width: 90%;
     border-radius: 10px;
-    background-color: #00b359;
+    
 }
 ol{
     margin-left: 33%;
 }
-.sign-in-btn{
-    background-color: #28a745;
-    color: white;
+.prijavi-se-btn{
+    background-color: snow;
+    color:  #00b359;
+    font-weight: bold;
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
+}
+.prijavi-se-btn:hover{
+    background-color:#006633;
+    color: snow;
 }
