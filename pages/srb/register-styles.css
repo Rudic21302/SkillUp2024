@@ -30,6 +30,8 @@ body{
 }
 .delete-btn:hover{
     background-color:rgb(201, 4, 4);
+    color:snow;
+    font-weight:bold;
 }
 
 
@@ -107,7 +109,7 @@ body{
  
  .container .profile{
     padding:20px;
-    background-color: white;
+    
     box-shadow: 5px 5px rgb(202, 202, 202);
     text-align: center;
     width: 400px;
@@ -141,4 +143,13 @@ body{
  .container .profile p a:hover{
     text-decoration: underline;
  }
- 
+ .profile{
+    background-color: #00b359;
+ }
+ .profile-link{
+    color:snow;
+ }
+ .profile-link:hover{
+    color:#006633;
+    font-weight: bold;
+ }
