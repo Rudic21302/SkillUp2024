@@ -1,5 +1,6 @@
+body{background-image: url("../../assets/images/back.jpg");}
 
-h1{;color: #000000;}
+h1{color: #000000;}
 h2{margin-top: 20px;color: #000000;}
 h3{margin-top: 40px;margin-left: 20px;color: #000000;}
 p{margin-left: 50px;color: #000000;border: solid green;margin-left: 39%;margin-right: 39%;background-color: #04AA6D;}
