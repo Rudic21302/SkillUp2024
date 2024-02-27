@@ -65,7 +65,6 @@
             <div class="navbar-nav">
                 <a href="../../index.php" class="nav-item nav-link">Naslovna</a>
                 <a href="about-us-srb.html" class="nav-item nav-link">O nama</a>
-                <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>
                 <a href="courses-srb.html" class="nav-item nav-link">Kursevi</a>
                 <a href="#" class="nav-item nav-link nav-item-right active">Registracija</a>
                 <b><a href="login.php" class="nav-item nav-item-right nav-link">Prijava</a></b>
