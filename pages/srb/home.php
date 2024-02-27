@@ -40,10 +40,10 @@
             <div class="navbar-nav">
                 <a href="../../index.php" class="nav-item nav-link">Naslovna</a>
                 <a href="about-us-srb.html" class="nav-item nav-link ">O nama</a>
-                <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>>
+                <a href="blog-forum-srb.html" class="nav-item nav-link">Blog</a>
                 <a href="courses-srb.html" class="nav-item nav-link">Kursevi</a>
                 <a href="register.php" class="nav-item nav-link nav-item-right">Registracija</a>
-                <b><a href="login.php" class="nav-item nav-link nav-item-right">Prijava</a></b>
+                <b><a href="login.php" class="nav-item nav-link nav-item-right active">Prijava</a></b>
             </div>
         </div>
     </nav>
@@ -57,17 +57,18 @@
                     $fetch = mysqli_fetch_assoc($select);
                 }
                 if($fetch['image'] == ''){
-                    echo '<img src="images/default-avatar.png">';
+                    echo '<img src="../../assets/images/default-avatar.png">';
                 }else{
                     echo '<img src="uploaded_img/'.$fetch['image'].'">';
                 }
             ?>
-            <h3><?php echo $fetch['name']; ?></h3>
-            <a href="../../index.html" class="btn">Naslovna</a>
+            <h3 ><?php echo $fetch['name']; ?></h3>
+            <a href="../../index.php" class="btn">Naslovna</a>
             <a href="home.php?logout=<?php echo $user_id; ?>" class="delete-btn">odjavite se</a>
-            <p><a href="login.php" class="profile-link">prijava</a> ili <a href="register.php" class="profile-link">registracija</a></p>
+           
         </div>
     </div>
+    
 
 <!--Bootstrap JS-->
 <script src='../../assets/bootstrap/js/bootstrap.min.js'></script>
