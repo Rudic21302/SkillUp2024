@@ -63,7 +63,7 @@
             ?>
             <h3 ><?php echo $fetch['name']; ?></h3>
             <a href="../../index.php" class="btn">Naslovna</a>
-            <a href="login.php=<?php echo $user_id; ?>" class="delete-btn">Odjavite se</a>
+            <a href="login.php" class="delete-btn">Odjavite se</a>
            
         </div>
     </div>
